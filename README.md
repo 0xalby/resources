@@ -31,7 +31,6 @@
 * [Nxbrew](https://nxbrew.net)
 * [Next Episode](https://next-episode.net)
 * [Anime Schedule](https://animeschedule.net)
-* [Jc141](https://gitlab.com/jc141x/portal)
 * [Selfh](https://selfh.st)
 * [CPU Land](https://cpu.land)
 * [Github](https://github.com)
