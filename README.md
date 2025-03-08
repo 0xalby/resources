@@ -34,6 +34,4 @@
 * [Jc141](https://gitlab.com/jc141x/portal)
 * [Selfh](https://selfh.st)
 * [CPU Land](https://cpu.land)
-* [Artix Linux](https://artixlinux.org)
-* [Go](https://go.dev)
 * [Github](https://github.com)
